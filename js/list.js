@@ -20,7 +20,7 @@ const d = {
 			"percentToQualify": "54",
 			"handcam": true,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/AM2KHSZkjcc",
 			"vids": [
 
 			],
